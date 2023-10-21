@@ -40,8 +40,17 @@
       <div class="container">
         <div class="row align-items-center text-white">
           <!-- START THE CONTENT FOR THE INTRO  -->
-          <div class="video-box">&nbsp; <img src="images/skills/logo.png" alt="datauniverse"
-              class="img-fluid" title="datauniverse" style="width: 634px; height: 586px;"></div>
+          <div class="col-md-6 intros text-start">
+            <h1 class="display-2"><span class="display-2--intro">DataUniverse</span>
+              <span class="display-2--description lh-base">por Angel Prieto</span>
+            </h1>
+            <button type="button" class="rounded-pill btn-rounded">Get in Touch
+              <span><i class="fas fa-arrow-right"></i></span> </button> </div>
+          <!-- START THE CONTENT FOR THE VIDEO -->
+          <div class="col-md-6 intros text-end">
+            <div class="video-box"> <img src="images/skills/logo.png" alt="datauniverse"
+                class="img-fluid" title="datauniverse"><a href="#" class="glightbox position-absolute top-50 start-50 translate-middle"><span></span></a></div>
+          </div>
         </div>
       </div>
     </section>
